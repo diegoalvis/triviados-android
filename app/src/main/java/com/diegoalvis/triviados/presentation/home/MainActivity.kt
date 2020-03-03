@@ -1,7 +1,8 @@
-package com.diegoalvis.triviados
+package com.diegoalvis.triviados.presentation.home
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.diegoalvis.triviados.R
 
 class MainActivity : AppCompatActivity() {
 
